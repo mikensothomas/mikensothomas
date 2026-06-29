@@ -102,7 +102,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Gosto de criar apli
 ## 🐍 Minhas Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mikensothomas/mikensothomas/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ##
