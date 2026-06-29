@@ -99,7 +99,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Gosto de criar apli
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
-## 🐍 Minhas Contribuições
+<h2>Minhas Contribuições</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mikensothomas/mikensothomas/output/github-contribution-grid-snake.svg" alt="Snake animation" />
