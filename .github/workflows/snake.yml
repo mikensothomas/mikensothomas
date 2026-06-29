@@ -13,6 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # O PASSO QUE FALTAVA: Baixa o repositório para a máquina virtual
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -21,6 +25,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Agora o deploy vai encontrar a pasta 'dist' e conseguir criar a branch 'output'
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
